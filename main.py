@@ -1,10 +1,4 @@
-# a = "s"
-# print(a)
 
-# b=2
-# c=3
-# d= b*c
-# print(d)
 
 # değişkenler arası değer ataması
 # a=3
